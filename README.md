@@ -1,0 +1,2 @@
+# iip-workflow-improvement-metadata-ingestion-retail
+Workflow created for a sample 30-day vendor product catalog upload for a retail product information management system.  Includes a multi-sheet workbook, notes for file issue tracking, and a Quick Stats sheet with pivot tables.  Highlights skills in: data governance, metadata intake &amp; triage, data quality, pivot reporting &amp; dashboard metrics.
